@@ -3,7 +3,8 @@ package method.prototype;
 /**
  * @Author Justin
  * @Time 2018/7/6 17:35
- * @Description
+ * @Description 原型模式
+ * 使用原型实例指定将要创建的对象类型，通过复制这个实例创建新的对象
  */
 public class GoodsInfoTest {
 

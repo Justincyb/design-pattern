@@ -4,6 +4,8 @@ package method.factory;
  * @Author Justin
  * @Time 2018/7/6 10:38
  * @Description 客户端调用工厂
+ * 为创建对象定义一个接口，让子类决定实例化哪个类
+ * 工厂方法让一个类的实例化延迟到子类
  */
 public class Client {
 

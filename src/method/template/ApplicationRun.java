@@ -50,10 +50,5 @@ public class ApplicationRun {
         };
         executorService.execute(xiaoming);
         executorService.execute(xiaohong);
-
-
-
-
     }
-
 }
