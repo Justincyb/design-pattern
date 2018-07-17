@@ -5,6 +5,7 @@ package method.prototype;
  * @Time 2018/7/6 17:35
  * @Description 原型模式
  * 使用原型实例指定将要创建的对象类型，通过复制这个实例创建新的对象
+ * 这种模式是实现了一个原型接口，该接口用于创建当前对象的克隆。当直接创建对象的代价比较大时，则采用这种模式
  */
 public class GoodsInfoTest {
 
